@@ -1,7 +1,7 @@
 Package: rmspc
 Type: Package
 Title: Multiple Sample Peak Calling
-Version: 1.13.2
+Version: 1.14.0
 Authors@R: c(person("Vahid", "Jalili", role = "aut",  
                      email = "jalili.vahid@gmail.com"),  
              person("Marzia Angela", "Cremona", role = "aut",  
